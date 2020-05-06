@@ -57,16 +57,12 @@ spec:
 1.  To view all the pods that you have created in the current namespace, run the command ```kubectl get pod```. You should see the following: 
 
  <p align="center">
- <img width="400" src="https://user-images.githubusercontent.com/60460833/74216703-3394da80-4ce0-11ea-838c-b36c24ed2c09.png">
- </p> 
- 
- <p align="center">
  <img width="470" alt="Screenshot 2020-02-11 at 3 06 59 PM" src="https://user-images.githubusercontent.com/60460833/74216703-3394da80-4ce0-11ea-838c-b36c24ed2c09.png">
  </p> 
  
 2.  To get more information on a particular pod, run the command ```kubectl describe pod myapp-pod1```. You should see the following: 
 
-<img width="1065" alt="Screenshot 2020-02-11 at 3 10 26 PM" src="https://user-images.githubusercontent.com/60460833/74216857-a69e5100-4ce0-11ea-828b-a23b36afdcdb.png">
+<img width="900" src="https://user-images.githubusercontent.com/60460833/74216857-a69e5100-4ce0-11ea-828b-a23b36afdcdb.png">
 
    The ```kubectl describe pod <name of pod>``` gives in-depth information about the pod. We will not be diving into the details of the pod in this course, but if you need to find out more information about the pod you can find it here. 
  
