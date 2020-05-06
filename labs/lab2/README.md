@@ -8,7 +8,7 @@ This lab walks you through the basics of Pod objects. You will need to:
 * View and inspect the pods that are currently in the namespace
 * Delete the pods once it is no longer in use 
 
-[Click here to start your lab](./labs/lab2/lab2.1_pods.md)
+[Click here to start your lab](./lab2.1_pods.md)
 
 Click <a href="https://github.com/cytan2020/cytan2020/blob/master/Lab%202.1%20-%20Pods.md">here</a> to start your Pods lab. 
 
