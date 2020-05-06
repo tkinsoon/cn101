@@ -1,4 +1,4 @@
-![title](/images/title.png)
+![title](/images/title1.png)
 
 # Lab Assessment Guide
 
