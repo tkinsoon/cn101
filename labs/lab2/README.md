@@ -1,4 +1,4 @@
- # Lab Assessment Guide
+ # Lab 2 - Kubernetes 101
 The Kubernetes 101 Training segment comes with Lab exercises to give you hands-on practice in interfacing with kubectl utility tool. You will learn how to use kubectl to create, update and delete different types of Kubernetes object types.
 
 ## Lab 2.1 - Pods
@@ -7,6 +7,8 @@ This lab walks you through the basics of Pod objects. You will need to:
 * Create pods declaratively and imperatively 
 * View and inspect the pods that are currently in the namespace
 * Delete the pods once it is no longer in use 
+
+[Click here to start your lab](./blob/master/Lab%202.1%20-%20Pods.md)
 
 Click <a href="https://github.com/cytan2020/cytan2020/blob/master/Lab%202.1%20-%20Pods.md">here</a> to start your Pods lab. 
 
