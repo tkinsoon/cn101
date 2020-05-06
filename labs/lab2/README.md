@@ -1,4 +1,4 @@
- # Lab Assessment Guide
+ # Lab 2 - Kubernetes 101
 The Kubernetes 101 Training segment comes with Lab exercises to give you hands-on practice in interfacing with kubectl utility tool. You will learn how to use kubectl to create, update and delete different types of Kubernetes object types.
 
 ## Lab 2.1 - Pods
