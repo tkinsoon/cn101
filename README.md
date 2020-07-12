@@ -25,3 +25,10 @@ This lab walks you through deploying the container(s) with the created image to 
 
 [Click here to start your lab](./labs/lab2)
 
+
+
+## Lab 3 - Cloud Native 101
+
+This lab walks you through deploying a cloud native application to the Kubernetes cluster
+
+[Click here to start your lab](./labs/lab3)
