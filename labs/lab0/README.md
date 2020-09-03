@@ -1,5 +1,9 @@
 # Lab 0 - Prerequisites
 
+## Section 1 - Create your Gitlab User Account
+1. Go to [GitLab](https://gitlab.tp.aws.bizilife.net/) 
+2. 
+
 Before you install the Google Cloud SDK and setup the Jumpbox, you need to ensure the following steps are completed:
   - A **Registered GCP account** - If not please register the [Google Cloud Platform(GCP)](https://cloud.google.com/) with your Google Email ID, please share with your instrucutor your Email ID once your GCP account is created.
   - A **New GCP Project** added into your GCP account - You should see a new project assigned to you from the drop-down list at the top left corner of the GCP main console. Please inform your instructor if you do not see any new project from the list.
