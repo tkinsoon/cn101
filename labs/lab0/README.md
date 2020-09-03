@@ -1,10 +1,15 @@
 # Lab 0 - Prerequisites
 
 ## Section 1 - Create your Gitlab User Account
-1. Go to [GitLab - https://gitlab.tp.aws.bizlife.net](https://gitlab.tp.aws.bizilife.net/) 
+1. Open your web browser, go to [GitLab - https://gitlab.tp.aws.bizlife.net](https://gitlab.tp.aws.bizilife.net/) 
 2. Click **Register** tab, fill up your account information and password, and click the **Register** button below to submit
 3. You should receive an email confirmation from GitLab, please continue to sign in as the registered user
 4. Logout from the GitLab portal by clicking the triangular arrow downward on the right hand corner on top
+
+## Section 2 - Create the access to the Kubernetes Learning Platform
+1. Open your web browser, go to [Gangway - https://gangway.tp.aws.bizlife.net](https://gangway.tp.aws.bizilife.net/)
+2. Click the **SIGN IN** button, you will be redirected to another page with a list of Identity Providers below:
+
 
 Before you install the Google Cloud SDK and setup the Jumpbox, you need to ensure the following steps are completed:
   - A **Registered GCP account** - If not please register the [Google Cloud Platform(GCP)](https://cloud.google.com/) with your Google Email ID, please share with your instrucutor your Email ID once your GCP account is created.
