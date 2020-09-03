@@ -2,13 +2,13 @@
 
 # Lab Assessment Guide
 
-The Microservices Enablement Training Programme comes with the Lab Guide to give you further practical experience in creating docker image, deploying the application in microservices, and also setting up the kubernete cluster with PKS.
+This course comes with the Lab Guide to give you further practical experience in creating docker image, deploying the application in microservices with CI/CD pipelines.
 
 ## Lab 0 - Prerequisites
 
-This lab walks you through setting up a jumpbox in your GCP project. You need to complete the setup of your jumpbox before you can move on to the next lab
+This lab walks you through regiestering your account with a local GitLab, you will also need this account to access to other platforms such as Kubernetes and Harbour Container Registry Server
 
-[Click here to setup your jumphost on GCP](./labs/lab0)
+[Click here to create your account](./labs/lab0)
 
 
 ## Lab 1 - Docker 101
